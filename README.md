@@ -1,5 +1,7 @@
 # Bethel Melesse Tessema
 
+Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/raw/main/Bethel_Melesse_Resume.pdf)!
+
 ## Contact
 - Email : My middle name and first name, at gmail (My middle name - melesse, first name - bethel)
 - Github - [https://github.com/bethelmelesse](https://github.com/bethelmelesse)
