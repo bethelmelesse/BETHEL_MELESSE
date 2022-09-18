@@ -1,9 +1,9 @@
-# My CV
+# Bethel Melesse Tessema
 
 ## Contact
 - Email : My middle name and first name, at gmail (My middle name - melesse, first name - bethel)
-- Github - https://github.com/bethelmelesse
-- LinkedIn - https://linkedin.com/in/bethelmelesse
+- Github - [https://github.com/bethelmelesse](https://github.com/bethelmelesse)
+- LinkedIn - [https://linkedin.com/in/bethelmelesse](https://github.com/bethelmelesse)
 
 ##  Education
 
@@ -28,7 +28,7 @@ Hankuk University of Foreign Studies, Seoul, South Korea
 
 |   |                                                            |
 | :----------------------- | :---------------------------------------------------------- |
-| **Programming**          | Java (Intermediate), Python (Intermediate)                  |
+| **Programming Languages**          | Java (Intermediate), Python (Intermediate)                  |
 | **Machine Learning**     | Pytorch (Intermediate), HuggingFace Transformers (Beginner) |
 | **Statistics**           | Hypothesis Testing, Significance Testing (Intermediate)     |
 | **Typesetting Document** | Latex (Intermediate)                                        |
@@ -62,24 +62,24 @@ to localize Android application’s resources.
 
 |                  |                                                                       |
 | :--------------- | :-------------------------------------------------------------------- |
-| Master’s Courses | Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Topics in Machine Learning (GNN)      |
-| Certifications   | KAIST - AAiT IT training course (2016), AutoCAD (2015)                |
+| **Master’s Courses** | Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Topics in Machine Learning (GNN)      |
+| **Certifications**   | KAIST - AAiT IT training course (2016), AutoCAD (2015)                |
 
 ## Language Skills 
 
 |         |                                                                      |
 | :------ | :------------------------------------------------------------------- |
-| English | 915/990 (Professional) in TOEIC English Reading and Listening (2021) |
-| Korean  | TOPIK Level 4, 1-year Intensive Korean Language Course (2017-2018)   |
+| **English** | 915/990 (Professional) in TOEIC English Reading and Listening (2021) |
+| **Korean**  | TOPIK Level 4, 1-year Intensive Korean Language Course (2017-2018)   |
 
 ## Awards & Scholarships 
 
 |                                         |                                                         |
 | :-------------------------------------- | :------------------------------------------------------ |
-| Ajou Tuition Scholarship (2022-Present) | Conditional on > 3.5 GPA                            |
-| HUFS Tuition Scholarship (2017-2022)    | Conditional on > 3.0 GPA every semester             |
-| Exemplary Student Award (2017)          | In Korean Language School                               |
-| Other Scholarships                      | Korean War Memorial Foundation, Korean War and Military Police Association, Embassy of Republic of Korea        |
+| **Ajou Tuition Scholarship** (2022-Present) | Conditional on > 3.5 GPA                            |
+| **HUFS Tuition Scholarship** (2017-2022)    | Conditional on > 3.0 GPA every semester             |
+| **Exemplary Student Award** (2017)          | In Korean Language School                               |
+| **Other Scholarships**                      | Korean War Memorial Foundation, Korean War and Military Police Association, Embassy of Republic of Korea        |
 
 
 ## Hobbies, Volunteering & Interests 
