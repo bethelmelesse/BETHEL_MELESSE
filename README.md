@@ -5,7 +5,7 @@ Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/ra
 ## Contact
 - Email : My middle name and first name, at gmail (My middle name - melesse, first name - bethel)
 - Github - [https://github.com/bethelmelesse](https://github.com/bethelmelesse)
-- LinkedIn - [https://linkedin.com/in/bethelmelesse](https://github.com/bethelmelesse)
+- LinkedIn - [https://linkedin.com/in/bethelmelesse](https://linkedin.com/in/bethelmelesse)
 
 ##  Education
 
