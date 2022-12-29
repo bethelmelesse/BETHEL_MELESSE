@@ -13,7 +13,7 @@ Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/ra
 
 Ajou University, Suwon, South Korea 
 
-- Overall GPA: 3.75\*/4.5
+- Overall GPA: 4.5*/4.5
 
 ### Bachelors of International Studies, 2018-2022
 
