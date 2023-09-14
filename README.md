@@ -9,83 +9,95 @@ Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/ra
 
 ##  Education
 
-### Masters of Artificial Intelligence, 2022-Present 
+### Masters of Artificial Intelligence, 2022-2024* 
 
 Ajou University, Suwon, South Korea 
 
-- Overall GPA: 4.13*/4.5
+- Overall GPA: 4.29*/4.5
 
 ### Bachelors of International Studies, 2018-2022
 
 Hankuk University of Foreign Studies, Seoul, South Korea 
+
 - Overall GPA: 3.75/4.5
 - President of United Students of Silk-Road University Network
 
 ### Software Engineering, 2015-2017
 
-- Addis Ababa Institute of Technology, Addis Ababa, Ethiopia 
-- 3 semesters of undergraduate studies in Bachelors of Software Engineering
+Addis Ababa Institute of Technology, Addis Ababa, Ethiopia 
+
+- #1 university in Ethiopia
+- 3 semesters of undergraduate studies in Bachelor of Software Engineering
 
 ## Technical Strengths 
 
 |   |                                                            |
 | :----------------------- | :---------------------------------------------------------- |
-| **Programming Languages**          | Java (Intermediate), Python (Intermediate)                  |
-| **Machine Learning**     | Pytorch (Intermediate), HuggingFace Transformers (Beginner) |
+| **Programming Languages**          | Python (Intermediate), Java (Intermediate)                  |
+| **Machine Learning**     | Pytorch (Intermediate), HuggingFace Transformers (Intermediate) |
+| **Typesetting,  Version Control** |  Git/Github (Intermediate) , Latex (Intermediate)  |
 | **Statistics**           | Hypothesis Testing, Significance Testing (Intermediate)     |
-| **Typesetting Document** | Latex (Intermediate)                                        |
-| **Version Control**      | Git/Github (Intermediate)                                   |
-| **App Development**      | Android (Beginner)                                          |
+
+
+## Relevant Master's Courses
+
+Advanced Artificial Intelligence, Advanced Machine Learning, Advanced Topics in Machine Learning (GNN), Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Image Signal Processing, Industrial Mathematics Survey.
 
 ## Projects & Open Source Contributions 
 
 
-### Information Retrieval for Low-Resource Languages
+### Data Collection and Fine-tuning of LLMs for Low-Resource Languages on Consumer Hardware (2023*)
 
-- Creating and training a BERT-like transformer Language-Model (LM) for IR
-for African languages.
-- Benchmarked traditional and SOTA approaches. (ongoing)
+- Filtered all data from $>1000$ TB of Common Crawl for low-resource languages for < 2$.
+- Evaluated capability of pre-trained Large Language Models (LLMs) for low-resource languages.
+- Fine-tuned multi-lingual LLMs using Quantized Low-Rank Adaptation (QLoRA) on consumer GPUs.
+- Code will be released as open-source, to enable any researcher to build LLMs affordably.
 
-### Generalized Output Spaces for Classification Models
+### Information Retrieval for Low-Resource Languages (2022)
 
-- Improved cross-domain/cross-task generalization of classifiers by fusing
-multiple descriptions of classes/tasks.
+- Trained a BERT-like transformer Language-Model (LM) for IR for African languages.
+- Compared traditional IR approaches (tf-idf, BM25) vs. SOTA approaches.
+
+### Generalized Output Spaces for Classification Models (2022-2023*)
+
+- Improved cross-domain/cross-task generalization of classifiers by fusing multiple descriptions of classes/tasks.
 - Achieved SOTA zero-shot performance in multiple datasets. (ongoing)
 
 ### Open Source Contributions
-- Added support for more languages to
-“[AllTrans](https://github.com/akhilkedia/AllTrans)”, an android
-application translator.
-- Added extra languages to
-“[Android-Auto-Localization](https://github.com/akhilkedia/Android-Auto-Localization_Translate-Strings.XML)”,
-to localize Android application’s resources.
+- Added support for more languages to “[AllTrans](https://github.com/akhilkedia/AllTrans)”, an android application translator.
+- Added extra languages to “[Android-Auto-Localization](https://github.com/akhilkedia/Android-Auto-Localization_Translate-Strings.XML)”, to localize Android application’s resources.
 
-## Certifications & Courses 
 
-|                  |                                                                       |
-| :--------------- | :-------------------------------------------------------------------- |
-| **Master’s Courses** | Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Topics in Machine Learning (GNN)      |
-| **Certifications**   | KAIST - AAiT IT training course (2016), AutoCAD (2015)                |
+##Paper Review and Reproduction}
+|   |                                                            |
+| :----------------------- | :---------------------------------------------------------- |
+| Natural Language Processing Models | Transformer Model, Bert Model, GLUE, ORQA |
+| Computer Vision Models | CLIP Model, ViT Model, ResNet Model |
+| Other ML Models | EGT Model |
+
 
 ## Language Skills 
 
 |         |                                                                      |
 | :------ | :------------------------------------------------------------------- |
 | **English** | 915/990 (Professional) in TOEIC English Reading and Listening (2021) |
-| **Korean**  | TOPIK Level 4, 1-year Intensive Korean Language Course (2017-2018)   |
+| **Korean**  | 1-year Intensive Korean Language Course (2017-2018)   |
+| **Korean**  | TOPIK Level 4 (2021)   |
 
-## Awards & Scholarships 
 
-|                                         |                                                         |
-| :-------------------------------------- | :------------------------------------------------------ |
-| **Ajou Tuition Scholarship** (2022-Present) | Conditional on > 3.5 GPA                            |
-| **HUFS Tuition Scholarship** (2017-2022)    | Conditional on > 3.0 GPA every semester             |
-| **Exemplary Student Award** (2017)          | In Korean Language School                               |
-| **Other Scholarships**                      | Korean War Memorial Foundation, Korean War and Military Police Association, Embassy of Republic of Korea        |
+## Certificates, Awards and Scholarships
+|         |                                                                      |
+| :------ | :------------------------------------------------------------------- |
+| Academic Scholarship | Ajou Research Scholarship (2023) - Recommended by HOD as Excellent Student, |
+|            | BK Research Scholarship(2022-2024), Ajou Tuition Scholarship (2022-2024) |
+|            | HUFS Tuition Scholarship (2017-2022), Exemplary Student Award (2017) |
+| Korean War Scholarship | Awarded by the Embassy of Republic of Korea(2026), Korean War and Military |
+|            | Police Widow's Association (2020), Korean War Memorial Foundation (2017-2022), |
+|            | Memorial Association of UN Participation in Korean War (UNPK) (2023) |
+| Certificates | KAIST-AAiT IT Training Course (2016), Intensive Korean Language |
+|            | Course, HUFS (2017-2018) 
 
 
 ## Hobbies, Volunteering & Interests 
 
-Aspiring member of Women in AI, Black in AI; Volunteering for NGOs
-(Korean Saemul Undong Center, The Korea-Africa Foundation Festival,
-etc.); Translating/Interpreting for Korean War Veterans
+Volunteering for NGOs (Korean Saemul Undong Center, The Korea-Africa Foundation Festival, etc.), acting as Translator/Interpreter/tour guide at the Korean War Veterans Revisit Program, Barista at Hwacheon Ice Festival
