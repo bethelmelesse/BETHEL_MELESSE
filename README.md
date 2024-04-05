@@ -14,6 +14,7 @@ Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/ra
 Ajou University, Suwon, South Korea 
 
 - Overall GPA: 4.31/4.5
+- Two-time TA for Digital Circuit and Database Course
 
 ### Bachelors of International Studies, 2018-2022
 
@@ -33,11 +34,13 @@ Addis Ababa Institute of Technology, Addis Ababa, Ethiopia
 
 |   |                                                            |
 | :----------------------- | :---------------------------------------------------------- |
-| **Programming Languages**          | Python (Intermediate), Java (Intermediate)                  |
-| **Machine Learning**     | Pytorch (Intermediate), HuggingFace Transformers (Intermediate) |
-| **Typesetting,  Version Control** |  Git/Github (Intermediate) , Latex (Intermediate)  |
-| **Statistics**           | Hypothesis Testing, Significance Testing (Intermediate)     |
-
+| **Programming Languages**          | Python (Intermediate), Java (Intermediate), Shell Script (Beginner)                  |
+| **Machine Learning**     | Deep Neural Networks, Generative Models |
+| **Deep Learning Libraries**     | Pytorch, HuggingFace, Pandas, NumPy, Scikit-learn, SciPy |
+| **Mathematics & Statistics**     |Linear Algebra, Probability Theory, Hypothesis & Significance Testing |
+| **Typesetting & Version Control**     |Latex (Advanced), Git/Github (Intermediate) |
+| **Natural Language Processing(NLP)**     |Transformers(BERT, GPT, LLaMa), Large Language Modeling, Prompt Engineering, Question Answering |
+| **Computer Vision(CV)**     |Convolutional Neural Networks (CNNs), Object Detection and Recognition, CLIP, ViT, ResNet Models |
 
 ## Relevant Master's Courses
 
