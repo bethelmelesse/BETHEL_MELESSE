@@ -30,6 +30,33 @@ Addis Ababa Institute of Technology, Addis Ababa, Ethiopia
 - #1 university in Ethiopia
 - 3 semesters of undergraduate studies in Bachelor of Software Engineering
 
+## Experience 
+### ML Researcher, 2022-2024
+Database and Dependable Computing Lab
+
+Ajou University, Suwon, South Korea
+#### Extracting Low-Resource Datasets for Affordable Adaptation of LLMs:
+- Processed > 1000 TB of Common Crawl for < 2 $, extracting SOTA monolingual datasets for 7 languages.
+- Improved multi-lingual LLMs using Quantized Low-Rank Adaptation (QLoRA) on consumer GPUs.
+- Published in Proceedings of Symposium of the Korean Institute of Communications and Information Sciences.
+- Code released at  “[UnifiedCrawl](https://github.com/nonamework/UnifiedCrawl)”
+  
+#### Generalized Output Spaces for Classifiers:
+- Improved cross-domain/cross-task generalization of multi-modal classifiers by fusing descriptions of classes/tasks.
+- Achieved SOTA zero-shot performance on CIFAR, RCV1, 20 NG (under review for publication).
+
+
+## Projects & Open Source Contributions 
+
+### Information Retrieval for Low-Resource Languages (2022)
+
+- Trained a BERT-like transformer Language-Model (LM) for IR for African languages.
+- Compared traditional IR approaches (tf-idf, BM25) vs. SOTA approaches.
+
+### Open Source Contributions
+- Added support for more languages to “[AllTrans](https://github.com/akhilkedia/AllTrans)”, an android application translator.
+- Added extra languages to “[Android-Auto-Localization](https://github.com/akhilkedia/Android-Auto-Localization_Translate-Strings.XML)”, to localize Android application’s resources.
+
 ## Technical Strengths 
 
 |   |                                                            |
@@ -42,43 +69,6 @@ Addis Ababa Institute of Technology, Addis Ababa, Ethiopia
 | **Natural Language Processing(NLP)**     |Transformers(BERT, GPT, LLaMa), Large Language Modeling, Prompt Engineering, Question Answering |
 | **Computer Vision(CV)**     |Convolutional Neural Networks (CNNs), Object Detection and Recognition, CLIP, ViT, ResNet Models |
 
-## Relevant Master's Courses
-
-Advanced Artificial Intelligence, Advanced Machine Learning, Advanced Topics in Machine Learning (GNN), Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Image Signal Processing, Industrial Mathematics Survey.
-
-## Projects & Open Source Contributions 
-
-
-### Data Collection and Fine-tuning of LLMs for Low-Resource Languages on Consumer Hardware (2023*)
-
-- Filtered all data from $>1000$ TB of Common Crawl for low-resource languages for < 2$.
-- Evaluated capability of pre-trained Large Language Models (LLMs) for low-resource languages.
-- Fine-tuned multi-lingual LLMs using Quantized Low-Rank Adaptation (QLoRA) on consumer GPUs.
-- Code will be released as open-source, to enable any researcher to build LLMs affordably.
-
-### Information Retrieval for Low-Resource Languages (2022)
-
-- Trained a BERT-like transformer Language-Model (LM) for IR for African languages.
-- Compared traditional IR approaches (tf-idf, BM25) vs. SOTA approaches.
-
-### Generalized Output Spaces for Classification Models (2022-2023*)
-
-- Improved cross-domain/cross-task generalization of classifiers by fusing multiple descriptions of classes/tasks.
-- Achieved SOTA zero-shot performance in multiple datasets. (ongoing)
-
-### Open Source Contributions
-- Added support for more languages to “[AllTrans](https://github.com/akhilkedia/AllTrans)”, an android application translator.
-- Added extra languages to “[Android-Auto-Localization](https://github.com/akhilkedia/Android-Auto-Localization_Translate-Strings.XML)”, to localize Android application’s resources.
-
-
-## Paper Review and Reproduction
-|   |                                                            |
-| :----------------------- | :---------------------------------------------------------- |
-| Natural Language Processing Models | Transformer Model, Bert Model, GLUE, ORQA |
-| Computer Vision Models | CLIP Model, ViT Model, ResNet Model |
-| Other ML Models | EGT Model |
-
-
 ## Language Skills 
 
 |         |                                                                      |
@@ -86,6 +76,17 @@ Advanced Artificial Intelligence, Advanced Machine Learning, Advanced Topics in 
 | **English** | 915/990 (Professional) in TOEIC English Reading and Listening (2021) |
 | **Korean**  | 1-year Intensive Korean Language Course (2017-2018)   |
 | **Korean**  | TOPIK Level 4 (2021)   |
+
+## Relevant Master's Courses
+
+Advanced Artificial Intelligence, Advanced Machine Learning, Advanced Topics in Machine Learning (GNN), Advanced Computer Vision, Introduction to Natural Language Processing, Information Retrieval, Advanced Image Signal Processing, Industrial Mathematics Survey.
+
+## Paper Review and Reproduction
+|   |                                                            |
+| :----------------------- | :---------------------------------------------------------- |
+| Natural Language Processing Models | Transformer Model, Bert Model, GLUE, ORQA |
+| Computer Vision Models | CLIP Model, ViT Model, ResNet Model |
+| Other ML Models | EGT Model |
 
 
 ## Certificates, Awards and Scholarships
