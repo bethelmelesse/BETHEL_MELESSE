@@ -1,6 +1,6 @@
 # Bethel Melesse Tessema
 
-Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/raw/main/Bethel_Melesse_Resume.pdf)!
+Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/raw/main/Bethel_Melesse_Resume_CV.pdf)!
 
 ## Contact
 - Email : My middle name and first name, at gmail (My middle name - melesse, first name - bethel)
@@ -9,11 +9,11 @@ Download my [Resume](https://github.com/bethelmelesse/bethelmelesse.github.io/ra
 
 ##  Education
 
-### Masters of Artificial Intelligence, 2022-2024* 
+### Masters of Artificial Intelligence, 2022-2024
 
 Ajou University, Suwon, South Korea 
 
-- Overall GPA: 4.29*/4.5
+- Overall GPA: 4.31/4.5
 
 ### Bachelors of International Studies, 2018-2022
 
