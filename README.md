@@ -71,7 +71,7 @@ Advanced Artificial Intelligence, Advanced Machine Learning, Advanced Topics in 
 - Added extra languages to “[Android-Auto-Localization](https://github.com/akhilkedia/Android-Auto-Localization_Translate-Strings.XML)”, to localize Android application’s resources.
 
 
-##Paper Review and Reproduction}
+## Paper Review and Reproduction
 |   |                                                            |
 | :----------------------- | :---------------------------------------------------------- |
 | Natural Language Processing Models | Transformer Model, Bert Model, GLUE, ORQA |
